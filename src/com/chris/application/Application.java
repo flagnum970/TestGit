@@ -10,5 +10,5 @@ package com.chris.application;
  * @author cflagollet
  */
 public class Application {
-    
+    private int toto;
 }
