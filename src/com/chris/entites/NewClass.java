@@ -11,4 +11,5 @@ package com.chris.entites;
  */
 public class NewClass {
     //modif FLCH
+    //modif2 FLCH
 }
