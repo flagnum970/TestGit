@@ -11,5 +11,6 @@ package com.chris.application;
  */
 public class Application {
     private int toto;
+    
     //bonne journeee 
 }
