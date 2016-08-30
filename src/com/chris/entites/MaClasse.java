@@ -3,16 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.chris.application;
+package com.chris.entites;
 
 /**
  *
  * @author cflagollet
  */
-public class Application {
-    private int toto;
-    
-    //bonne journeee 
-    
-    //FLCH modif 2
+public class MaClasse {
+    //MODIF 3 FLCH
 }
