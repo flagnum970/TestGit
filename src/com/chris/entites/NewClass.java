@@ -10,5 +10,5 @@ package com.chris.entites;
  * @author cflagollet
  */
 public class NewClass {
-    
+    //modif FLCH
 }
