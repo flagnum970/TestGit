@@ -11,4 +11,5 @@ package com.chris.entites;
  */
 public class MaClasse {
     //MODIF 3 FLCH
+    //modif 20/09
 }
